@@ -187,8 +187,8 @@ cd royaltymart-analysis
 This project is part of my data analytics portfolio. For questions or collaboration opportunities:
 
 - *Email*: tooladayo@gmail.com
-- *LinkedIn*: [Your LinkedIn Profile](https://linkedin.com/in/oladayotimileyin)
-- *Portfolio*: [Your Portfolio Website](otimileyin.netlify.app)
+- *LinkedIn*: [Oladayo Timileyin](https://linkedin.com/in/oladayotimileyin)
+- *Portfolio*: [Oladayo Timileyin Portfolio](otimileyin.netlify.app)
 
 ## 📄 License
 
