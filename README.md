@@ -91,7 +91,7 @@ royaltymart-analysis/
 ### ⚡ Immediate Actions (90 Days)
 
 #### 1. Sales Team Development
-python
+
 # Performance improvement strategy
 recommendations = {
     'mentorship_program': 'Samuel leads knowledge transfer',
