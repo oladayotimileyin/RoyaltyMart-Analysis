@@ -148,7 +148,7 @@ cd royaltymart-analysis
 
 ### Sales Trend Analysis
 ![Sales by Year](Images/yearly sales trend.png)
-![Sales by Month](Images/monthly sales trend.png)
+![Sales by Month](Images/monthly_sales_trend.png)
 ![Sales by Branch](Images/sales by branch.png)
 ![Sales by Brand](Images/sales by brand.png)
 
