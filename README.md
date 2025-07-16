@@ -2,7 +2,6 @@
 
 [![Business Intelligence](https://img.shields.io/badge/Business-Intelligence-blue)](https://github.com/oladayotimileyin/royaltymart-analysis)
 [![Data Analysis](https://img.shields.io/badge/Data-Analysis-green)](https://github.com/oladayotimileyin/royaltymart-analysis)
-[![Python](https://img.shields.io/badge/Python-3.8+-yellow)](https://github.com/oladayotimileyin/royaltymart-analysis)
 [![Status](https://img.shields.io/badge/Status-Complete-success)](https://github.com/oladayotimileyin/royaltymart-analysis)
 
 > A comprehensive data-driven analysis of 5-year sales performance across multiple business dimensions, delivering actionable insights for strategic decision-making.
@@ -45,15 +44,14 @@ This project analyzes RoyaltyMart Home Appliances' business performance from 201
 royaltymart-analysis/
 │
 ├── data/
-│   ├── raw/
-│   │   └── ExcelMart_Sales_2019_2024.xlsx
+│   ├── data.xlsx
 │
 ├── Project Brief/
 │   ├── Project Brief.docx
 
 ├── reports/
-│   ├── executive_summary.pdf
-│   └── presentation.pptx
+│   ├── RoyaltyMart Analysis PPT.pdf
+│   └── RoyaltyMart Analysis PPT.pptx
 │
 └── README.md
 
@@ -66,7 +64,7 @@ royaltymart-analysis/
 - *Revenue Stability*: Minimal quarterly variation indicating business stability
 
 ### 🏆 Top Performing Categories
-| Category | Revenue | Units | Avg Price | Market Share |
+| Category | Revenue | Units | Avg Price | Contribution |
 |----------|---------|-------|-----------|--------------|
 | TV | ₦98.43M | 360 | ₦268.80K | 13.74% |
 | Microwave | ₦98.01M | 371 | ₦265.14K | 13.69% |
@@ -149,13 +147,15 @@ cd royaltymart-analysis
 ## 📈 Key Visualizations
 
 ### Sales Trend Analysis
-![Sales Trends](visualizations/sales_trends.png)
+![Sales by Year](Images/yearly_sales_trend.png)
+![Sales by Month](Images/monthly_sales_trend.png)
+![Sales by Branch](Images/sales_by_branch.png)
+![Sales by Brand](Images/sales_by_brand.png)
 
 ### Category Performance
-![Category Performance](visualizations/category_performance.png)
+![Category Performance](Images/sales_by_category.png)
 
-### Branch Comparison
-![Branch Comparison](visualizations/branch_comparison.png)
+
 
 ## 🏆 Skills Demonstrated
 
@@ -186,7 +186,7 @@ cd royaltymart-analysis
 
 This project is part of my data analytics portfolio. For questions or collaboration opportunities:
 
-- *Email*: your.email@example.com
+- *Email*: tooladayo@gmail.com
 - *LinkedIn*: [Your LinkedIn Profile](https://linkedin.com/in/oladayotimileyin)
 - *Portfolio*: [Your Portfolio Website](otimileyin.netlify.app)
 
