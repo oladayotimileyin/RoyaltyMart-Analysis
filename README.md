@@ -146,6 +146,10 @@ cd royaltymart-analysis
 
 ## 📈 Key Visualizations
 
+### Dynamic Dashboard
+![Dashboard](Images/dashboard.png)
+
+
 ### Sales Trend Analysis
 ![Sales by Year](Images/yearly_sales_trend.png)
 ![Sales by Month](Images/monthly_sales_trend.png)
